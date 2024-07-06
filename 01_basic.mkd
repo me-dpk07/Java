@@ -31,4 +31,4 @@ Naming Conventions
      (uppercase).
     Example: Main, MyScanner, MyEmployee, CodeWithHarry
    - For functions and variables, we use camelCaseConvention. Here the first character is lowercase, and the 
-     subsequent characters are uppercase like myScanner, myMarks, CodeWithHarry
+     subsequent characters are uppercase like myScanner, myMarks, CodeWithHarry.

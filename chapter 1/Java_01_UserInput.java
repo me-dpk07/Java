@@ -4,10 +4,10 @@ public class Java_01_UserInput{
         System.out.println("Taking input from user");
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter 1st number");
-        boolean a = sc.nextInt();
+        int a = sc.nextInt();
         System.out.println("Enter your second number");
-        boolean b = sc.nextInt();
-        boolean sum = a+b;
+        int b = sc.nextInt();
+        int sum = a+b;
         System.out.println("sum of these numbers are ");
         System.out.println(sum);
     }

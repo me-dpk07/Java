@@ -6,7 +6,7 @@ public class userinput {
         String name = input.nextLine();
         System.out.println("gud morning "+name+"!! " );
         System.out.println(name +"also tell me your age");
-        String age = input.nextLine();
+        int age = input.nextInt();
         System.out.println("hey "+ name + " your age is "+ age);
 
     }
